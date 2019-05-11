@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.currencyconversionservice;
+package com.biz.microservices.netflixzuulapigatewayserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class CurrencyConversionServiceApplicationTests {
+public class NetflixZuulApiGatewayServerApplicationTests {
 
 	@Test
 	public void contextLoads() {
